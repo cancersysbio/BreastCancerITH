@@ -1,4 +1,4 @@
-### Tools for simulating breast tumor heterogeneity and calculating heterogeneity metrics using both simulated and clinical data
+## Tools for simulating breast tumor heterogeneity and calculating heterogeneity metrics using both simulated and clinical data
 
 Description
 ---
